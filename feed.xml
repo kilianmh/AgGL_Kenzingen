@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>crypto-referrals.net</title>
+    <link href="https://kilianmh.github.io/aggl_kenzingen/feed.xml" rel="self" />
+    <link href="https://kilianmh.github.io/aggl_kenzingen" />
+    <updated>2020-10-26T17:07:01+01:00</updated>
+    <author>
+        <name>blockconomist</name>
+    </author>
+    <id>https://kilianmh.github.io/aggl_kenzingen</id>
+
+    <entry>
+        <title>Binance</title>
+        <author>
+            <name>blockconomist</name>
+        </author>
+        <link href="https://kilianmh.github.io/aggl_kenzingen/binance.html"/>
+        <id>https://kilianmh.github.io/aggl_kenzingen/binance.html</id>
+
+        <updated>2020-10-26T17:07:01+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Referral Link is
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Referral Link is</p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Overview of Referral Programs</title>
+        <author>
+            <name>blockconomist</name>
+        </author>
+        <link href="https://kilianmh.github.io/aggl_kenzingen/this-is-thefirst-post.html"/>
+        <id>https://kilianmh.github.io/aggl_kenzingen/this-is-thefirst-post.html</id>
+
+        <updated>2020-10-26T16:45:56+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>

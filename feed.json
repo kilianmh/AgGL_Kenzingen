@@ -1,0 +1,39 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "crypto-referrals.net",
+    "description": "",
+    "home_page_url": "https://kilianmh.github.io/aggl_kenzingen",
+    "feed_url": "https://kilianmh.github.io/aggl_kenzingen/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "blockconomist"
+    },
+    "items": [
+        {
+            "id": "https://kilianmh.github.io/aggl_kenzingen/binance.html",
+            "url": "https://kilianmh.github.io/aggl_kenzingen/binance.html",
+            "title": "Binance",
+            "summary": "Referral Link is",
+            "content_html": "<p>Referral Link is</p>\n",
+            "author": {
+                "name": "blockconomist"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-10-26T17:07:01+01:00",
+            "date_modified": "2020-10-26T17:07:01+01:00"
+        },
+        {
+            "id": "https://kilianmh.github.io/aggl_kenzingen/this-is-thefirst-post.html",
+            "url": "https://kilianmh.github.io/aggl_kenzingen/this-is-thefirst-post.html",
+            "title": "Overview of Referral Programs",
+            "author": {
+                "name": "blockconomist"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-10-26T16:36:00+01:00",
+            "date_modified": "2020-10-26T16:45:56+01:00"
+        }
+    ]
+}
